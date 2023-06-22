@@ -27,8 +27,3 @@ To get started with the calculator app, follow these steps:
 2. Install dependencies: `npm install`
 3. Run the app: `npm start`
 4. Open the app in your browser at `http://localhost:3000`
-
-## Contributions
-
-Contributions to the calculator app are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
