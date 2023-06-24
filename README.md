@@ -16,8 +16,8 @@ The calculator app also features a night mode option, allowing users to switch b
 
 ## Technologies Used
 
-- React: JavaScript library for building user interfaces.
-- CSS: Styling the calculator app.
+- React
+- CSS
 
 ## Getting Started
 
